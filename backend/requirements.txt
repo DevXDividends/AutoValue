@@ -1,0 +1,11 @@
+numpy 
+scikit-learn
+scipy
+pandas
+matplotlib
+jupyter
+notebook
+seaborn
+fastapi==0.136.1
+uvicorn[standard]==0.30.1
+pydantic>=2.9.0
